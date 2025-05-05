@@ -4,7 +4,8 @@
 
 1. Clone the repository
 2. Open the terminal and navigate to the directory
-3. Run `python3 main.py` to start the program
+3. Run `python3 main.py` to start the program (you must have a recent version of
+   Python installed)
 4. Follow the prompts to load a deck of flashcards
    - Flashcards should be a JSON file with the following format:
    ```json
