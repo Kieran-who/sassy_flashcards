@@ -1,0 +1,267 @@
+[
+  {
+    "question": "Author of '1984'?",
+    "answer": "george orwell",
+    "hints": ["Wrote 'Animal Farm'", "English novelist"]
+  },
+  {
+    "question": "Chemical symbol 'O' stands for?",
+    "answer": "oxygen",
+    "hints": ["Essential for breathing", "21% of atmosphere"]
+  },
+  {
+    "question": "Capital of France?",
+    "answer": "paris",
+    "hints": ["City of love", "Eiffel Tower"]
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "jupiter",
+    "hints": ["Gas giant", "Has a Great Red Spot"]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "leonardo da vinci",
+    "hints": ["Italian Renaissance artist", "Also known for 'The Last Supper'"]
+  },
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "answer": "au",
+    "hints": ["Precious metal", "From Latin 'aurum'"]
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "nile",
+    "hints": ["Flows through Egypt", "Historically debated with the Amazon"]
+  },
+  {
+    "question": "What year did World War II end?",
+    "answer": "1945",
+    "hints": ["Mid-20th century", "Followed the surrender of Germany and Japan"]
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "avocado",
+    "hints": ["Green fruit", "Often served with Mexican food"]
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "answer": "william shakespeare",
+    "hints": ["English playwright", "The Bard of Avon"]
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "yen",
+    "hints": ["Symbol: \u00a5", "Asian currency"]
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": "diamond",
+    "hints": ["Carbon allotrope", "Used in jewelry and cutting tools"]
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "canberra",
+    "hints": ["Not Sydney or Melbourne", "Located in the ACT"]
+  },
+  {
+    "question": "What element does 'Fe' represent on the periodic table?",
+    "answer": "iron",
+    "hints": ["Metal", "From Latin 'ferrum'"]
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "alexander fleming",
+    "hints": ["Scottish physician", "Accidental discovery involving mold"]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "mount everest",
+    "hints": ["Located in the Himalayas", "Border of Nepal and China"]
+  },
+  {
+    "question": "What is the primary language spoken in Brazil?",
+    "answer": "portuguese",
+    "hints": ["Not Spanish", "Romance language"]
+  },
+  {
+    "question": "What is the square root of 144?",
+    "answer": "12",
+    "hints": ["Number multiplied by itself", "Dozen"]
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "george washington",
+    "hints": [
+      "Commander-in-Chief of the Continental Army",
+      "Face on the one-dollar bill"
+    ]
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "answer": "h2o",
+    "hints": ["Two hydrogen atoms", "One oxygen atom"]
+  },
+  {
+    "question": "What galaxy do we live in?",
+    "answer": "milky way",
+    "hints": ["Spiral galaxy", "Contains our Solar System"]
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "answer": "100",
+    "hints": ["Temperature scale based on water", "Freezing point is 0"]
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answer": "michelangelo",
+    "hints": ["Italian Renaissance artist", "Also sculpted David"]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer": "pacific ocean",
+    "hints": ["Borders Asia, Australia, and the Americas", "Deepest ocean"]
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "answer": "nitrogen",
+    "hints": ["About 78% of the atmosphere", "Chemical symbol N"]
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "ottawa",
+    "hints": ["Located in Ontario", "Not Toronto or Montreal"]
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answer": "jane austen",
+    "hints": ["English novelist", "Also wrote 'Sense and Sensibility'"]
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 meters per second",
+    "hints": [
+      "Universal physical constant",
+      "Often approximated as 300,000 km/s"
+    ]
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answer": "2",
+    "hints": ["Only even prime number", "Divisible only by 1 and itself"]
+  },
+  {
+    "question": "What is the study of earthquakes called?",
+    "answer": "seismology",
+    "hints": ["Branch of geology", "Uses seismographs"]
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "madrid",
+    "hints": [
+      "Located in the center of the country",
+      "Home to the Prado Museum"
+    ]
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "mitochondrion",
+    "hints": ["Organelle", "Generates ATP"]
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answer": "albert einstein",
+    "hints": ["German-born physicist", "E=mc\u00b2"]
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "antarctica",
+    "hints": ["It's a cold desert", "Not the Sahara"]
+  },
+  {
+    "question": "What is the chemical symbol for Sodium?",
+    "answer": "na",
+    "hints": ["Alkali metal", "From Latin 'natrium'"]
+  },
+  {
+    "question": "Who was the first person to step on the moon?",
+    "answer": "neil armstrong",
+    "hints": ["Apollo 11 mission", "'One small step for man...'"]
+  },
+  {
+    "question": "What is the main component of the sun?",
+    "answer": "hydrogen",
+    "hints": ["Lightest element", "Undergoes nuclear fusion"]
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "rome",
+    "hints": ["Ancient city", "Contains the Colosseum"]
+  },
+  {
+    "question": "What is the process by which plants make their food?",
+    "answer": "photosynthesis",
+    "hints": ["Uses sunlight, water, and CO2", "Produces glucose and oxygen"]
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "answer": "f. scott fitzgerald",
+    "hints": ["American novelist", "Jazz Age writer"]
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "answer": "blue whale",
+    "hints": ["Marine mammal", "Can grow up to 100 feet long"]
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answer": "berlin",
+    "hints": ["Known for its wall (now removed)", "Brandenburg Gate"]
+  },
+  {
+    "question": "What force keeps us on the ground?",
+    "answer": "gravity",
+    "hints": ["Fundamental interaction", "Attracts objects with mass"]
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "alexander graham bell",
+    "hints": [
+      "Scottish-born inventor",
+      "First words: 'Mr. Watson, come here...'"
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for Potassium?",
+    "answer": "k",
+    "hints": ["Alkali metal", "From Latin 'kalium'"]
+  },
+  {
+    "question": "What is the longest bone in the human body?",
+    "answer": "femur",
+    "hints": ["Thigh bone", "Connects hip to knee"]
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answer": "moscow",
+    "hints": ["Red Square", "Kremlin"]
+  },
+  {
+    "question": "What is the main language spoken in Argentina?",
+    "answer": "spanish",
+    "hints": ["Romance language", "Most common language in South America"]
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "answer": "vincent van gogh",
+    "hints": [
+      "Dutch Post-Impressionist painter",
+      "Known for self-portraits and sunflowers"
+    ]
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answer": "pound sterling",
+    "hints": ["Symbol: \u00a3", "Often just called 'pound'"]
+  }
+]
